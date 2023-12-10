@@ -1,1 +1,1 @@
-# Handle-Imbalanced-Dataset
+# Imbalanced-Dataset-handling
